@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">W2-D3-Ex03</string>
+    <string name="lbl_btn_save">SAVE</string>
+    <string name="lbl_btn_read">READ</string>
+    <string name="lbl_result">%1$s</string>
+    <string name="lbl_read_result">Result....</string>
+    <string name="lbl_btn_update">UPDATE</string>
+    <string name="lbl_btn_delete">DELETE</string>
+</resources>
